@@ -1,11 +1,6 @@
 # jpa02-raysujf
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-f23/jpa02-cgaucho
-
-Repo: https://ucsb-cs156-f23/STARTER-jpa02
+Repo: https://ucsb-cs156-f23/jpa02-raysujf
 
 Deployed at: https://jpa02-raysujf.dokku-10.cs.ucsb.edu
 
